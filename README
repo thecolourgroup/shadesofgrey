@@ -1,0 +1,6 @@
+To install, type:
+
+gimptool-2.0 --install shadesofgrey.c
+
+This will compile and install the plugin in your local Gimp directory.
+
