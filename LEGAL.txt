@@ -1,0 +1,57 @@
+LEGAL INFORMATION
+
+This LEGAL.txt file accompanies the "Shades of Grey plugin for Gimp" program.
+It includes notices required by the licenses as well as general legal notices.
+
+=========================================
+ COPYRIGHT AND ATTRIBUTION NOTICES
+=========================================
+
+Copyright (C) 2012 Roberto Montagna
+All Rights Reserved.
+
+=========================================
+ SOURCE CODE AVAILABILITY NOTICE
+=========================================
+
+The source code for this product is available from:
+https://github.com/thecolourgroup/shadesofgrey
+
+=========================================
+ SOURCE CODE LICENSE
+=========================================
+
+Except as explicitly indicated in the file itself, the contents of all files 
+that make up this product are subject to the Common Public Attribution License 
+Version 1.0 (the "License"; alternatively, the "CPAL"); you may not use the 
+files except in compliance with the License. You may obtain a copy of the 
+License at http://opensource.org/licenses/cpal_1.0. The License is based 
+on the Mozilla Public License Version 1.1 but Sections 14 and 15 have been 
+added to cover use of software over a computer network and provide for limited 
+attribution for the Original Developer. In addition, Exhibit A has been 
+modified to be consistent with Exhibit B.
+
+Software distributed under the License is distributed on an "AS IS" basis, 
+WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for 
+the specific language governing rights and limitations under the License.
+
+=========================================
+ THIRD PARTY CLAIMS 
+=========================================
+
+(See CPAL Section 3.4(a)):
+
+None known at present.
+
+=========================================
+EXHIBIT B. Attribution Information
+=========================================
+
+Attribution Copyright Notice: Copyright (C) 2012 Roberto Montagna
+Attribution Phrase (not exceeding 10 words): Roberto Montagna, Colour Group of
+the University of East Anglia.
+Attribution URL: http://www.robertomontagna.it
+
+Display of Attribution Information is required in Larger Works which are 
+defined in the CPAL as a work which combines Covered Code or portions 
+thereof with code not governed by the terms of the CPAL.
